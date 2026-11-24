@@ -1,0 +1,12 @@
+/codex/
+/report/
+
+# Local build products and editor backups
+__pycache__/
+*.o
+*.out
+*.exe
+*.tmp
+*.swp
+*~
+.DS_Store
